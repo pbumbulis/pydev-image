@@ -6,7 +6,7 @@
 #
 addict==2.4.0
     # via -r requirements.in
-aiofile==3.7.4
+aiofile==3.8.1
     # via -r requirements.in
 aiohttp==3.8.1
     # via -r requirements.in
